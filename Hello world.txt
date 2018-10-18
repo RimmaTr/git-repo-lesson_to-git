@@ -1,3 +1,5 @@
 Print ("Hello World;")
 Print ("Hello Everybody;")
 Print ("Hello;")
+Print ("Hello my dear frands;")
+Print ("How are you;")
